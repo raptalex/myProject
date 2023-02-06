@@ -1,0 +1,15 @@
+C:\Users\arapt\source\repos\myProject\myProject\bin\Debug\net6.0\myProject.exe
+C:\Users\arapt\source\repos\myProject\myProject\bin\Debug\net6.0\myProject.deps.json
+C:\Users\arapt\source\repos\myProject\myProject\bin\Debug\net6.0\myProject.runtimeconfig.json
+C:\Users\arapt\source\repos\myProject\myProject\bin\Debug\net6.0\myProject.dll
+C:\Users\arapt\source\repos\myProject\myProject\bin\Debug\net6.0\myProject.pdb
+C:\Users\arapt\source\repos\myProject\myProject\obj\Debug\net6.0\myProject.csproj.AssemblyReference.cache
+C:\Users\arapt\source\repos\myProject\myProject\obj\Debug\net6.0\myProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arapt\source\repos\myProject\myProject\obj\Debug\net6.0\myProject.AssemblyInfoInputs.cache
+C:\Users\arapt\source\repos\myProject\myProject\obj\Debug\net6.0\myProject.AssemblyInfo.cs
+C:\Users\arapt\source\repos\myProject\myProject\obj\Debug\net6.0\myProject.csproj.CoreCompileInputs.cache
+C:\Users\arapt\source\repos\myProject\myProject\obj\Debug\net6.0\myProject.dll
+C:\Users\arapt\source\repos\myProject\myProject\obj\Debug\net6.0\refint\myProject.dll
+C:\Users\arapt\source\repos\myProject\myProject\obj\Debug\net6.0\myProject.pdb
+C:\Users\arapt\source\repos\myProject\myProject\obj\Debug\net6.0\myProject.genruntimeconfig.cache
+C:\Users\arapt\source\repos\myProject\myProject\obj\Debug\net6.0\ref\myProject.dll
